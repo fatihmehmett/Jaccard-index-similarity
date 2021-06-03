@@ -1,0 +1,6 @@
+C:\Users\FATİH\Source\Repos\Videojaccard\Videojaccard\bin\Debug\Videojaccard.exe.config
+C:\Users\FATİH\Source\Repos\Videojaccard\Videojaccard\bin\Debug\Videojaccard.exe
+C:\Users\FATİH\Source\Repos\Videojaccard\Videojaccard\bin\Debug\Videojaccard.pdb
+C:\Users\FATİH\Source\Repos\Videojaccard\Videojaccard\obj\Debug\Videojaccard.csprojAssemblyReference.cache
+C:\Users\FATİH\Source\Repos\Videojaccard\Videojaccard\obj\Debug\Videojaccard.exe
+C:\Users\FATİH\Source\Repos\Videojaccard\Videojaccard\obj\Debug\Videojaccard.pdb
